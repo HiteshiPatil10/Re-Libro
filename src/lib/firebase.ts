@@ -9,7 +9,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyB0UMiPJzPWOVe0Mt6mL5l1SfgINb9go9w",
   authDomain: "relibro-8a1bb.firebaseapp.com",
   projectId: "relibro-8a1bb",
-  storageBucket: "relibro-8a1bb.firebasestorage.app",
+  storageBucket: "relibro-8a1bb.appspot.com",
   messagingSenderId: "1039243310547",
   appId: "1:1039243310547:web:1713eee85f2d05577e6b26"
 };
